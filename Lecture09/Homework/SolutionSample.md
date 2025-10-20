@@ -1,0 +1,7 @@
+### 🧠 **Sample Homework Essay – “How I Can Use AI Responsibly as a Student”**
+
+As a student, I believe using AI responsibly means treating it as a learning partner, not a shortcut. AI tools like ChatGPT can help me brainstorm ideas, explain difficult concepts, and check my grammar, but I should always ensure that the work I submit reflects my own thinking and understanding. For example, instead of asking AI to write my essay, I can use it to outline key points or summarize readings before I write in my own words.
+
+From this lesson, I learned that AI can sometimes show **bias** or **hallucinate**—providing false or misleading information. To use AI responsibly, I will double-check all AI-generated facts against reliable sources before including them in my projects. I also understand that privacy matters; I should never share my personal information or others’ data in AI prompts. Using tools like the *privacy redactor* from class reminds me how easily sensitive data can appear in text.
+
+Ethical AI use also means being honest. If I use AI assistance, I will cite it properly and explain how it contributed to my work. I will avoid copying entire paragraphs or answers, since that would be plagiarism. Most importantly, I will follow the school’s AI guidelines and focus on developing my own critical thinking. Responsible AI use helps me learn effectively, act ethically, and prepare for a future where humans and AI work together.
